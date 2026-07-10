@@ -4,7 +4,9 @@
 
 </div>
 
+
 ## Tasks Overview
+
 
 ### Task 1 — Network Sniffer (Flask + Scapy)
 A real‑time packet sniffer with a polished cyberpunk UI and export tools.
@@ -13,11 +15,14 @@ A real‑time packet sniffer with a polished cyberpunk UI and export tools.
 ### Task 2 — Phishing Awareness Training
 Educational deliverables focused on phishing and social engineering.
 
+
 ### Task 3 — Secure Coding Review
 Security audit and recommendations for safer software development.
 
+
 ### Task 4 — Network Intrusion Detection System (NIDS)
 Custom Python NIDS plus Snort configs and visualization.
+
 
 ## Quick Start
 
