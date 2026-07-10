@@ -8,7 +8,7 @@
 ## Tasks Overview
 
 
-### Task 1 — Network Sniffer (Flask + Scapy)
+### Task 1 — Network Sniffer
 A real‑time packet sniffer with a polished cyberpunk UI and export tools.
 - Features: live capture, filtering, search/sort, protocol/category stats, PCAP/CSV export, session login
   
