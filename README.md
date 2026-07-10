@@ -127,5 +127,4 @@ This repository contains work completed for the CodeAlpha Cybersecurity Internsh
 ---
 
 ## Author & License
-- Author: Mandar Kajbaje
-- License: MIT — see [LICENSE](LICENSE)
+- Author: Parth Panchal
